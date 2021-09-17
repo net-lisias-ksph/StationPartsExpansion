@@ -1,5 +1,16 @@
 # Station Parts Expansion :: Change Log
 
+* 2015-0605: 0.3.3 (Nertea) for KSP ['1.0.4', '1.0.3', '1.0.2']
+	+ Updated bundled MM to 2.6.5
+	+ Added Fraz86's contract patches: new cupola modules count as cupolas for contracts, and base contracts will occasionally request a hab module
+	+ Adjusted colliders on SCATTER airlock
+	+ Added placeholder internal to both airlock parts
+	+ Fixed a texture load error on the 2.5-3.75m short adapter
+	+ Fixed some incorrect CLS patches
+	+ Fixed missing breakingTorque on 2.5m attach node
+	+ Fixed smoothing error on 2.5m crew hub
+	+ Added missing mipmaps to .dds textures
+	+ Fixed 3.75m cupola not defining a VesselType
 * 2015-0504: 0.3.2 (Nertea) for KSP 1.0.0
 	+ CTT 2.0 fix
 	+ Fixed RGB-2 tech node
