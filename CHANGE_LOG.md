@@ -1,5 +1,9 @@
 # Station Parts Expansion :: Change Log
 
+* 2017-0124: 0.4.3 (Nertea) for KSP 1.2.2
+	+ Marked for KSP 1.2.2
+	+ Updated bundled MM to 2.7.5
+	+ Corrected a few spelling errors
 * 2016-1118: 0.4.2 (Nertea) for KSP 1.2
 	+ Marked for KSP 1.2.1
 	+ Replaced outdated version of ModuleManager
