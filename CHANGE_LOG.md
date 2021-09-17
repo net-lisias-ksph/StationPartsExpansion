@@ -1,5 +1,17 @@
 # Station Parts Expansion :: Change Log
 
+* 2016-0601: 0.4.0 (Nertea) for KSP 1.1
+	+ KSP 1.1.2
+	+ Updated bundled MM
+	+ Added EPL compatability patch
+	+ Added USI LS compatability patch
+	+ Added part search tags to all parts that didn't have them
+	+ Added vessel type tags to all parts that contain crew (fixes experience bug)
+	+ Added basic IVA mesh to 1.25m and 2.5m airlocks
+		- Improved basic mesh of PXL-2 IVA
+	+ Significantly improved basic mesh of PXL-9 IVA
+	+ Added IVA blocking meshes to PXL-9, PXL-2, PPD-24 and PPD-20
+	+ Added simple docking indicator direction lights to docking ports
 * 2015-0605: 0.3.3 (Nertea) for KSP ['1.0.4', '1.0.3', '1.0.2']
 	+ Updated bundled MM to 2.6.5
 	+ Added Fraz86's contract patches: new cupola modules count as cupolas for contracts, and base contracts will occasionally request a hab module
