@@ -1,5 +1,14 @@
 # Station Parts Expansion :: Change Log
 
+* 2016-1021: 0.4.1 (Nertea) for KSP 1.2
+	+ KSP 1.2
+	+ Station hubs can act as probe control points
+	+ Large crew containers (Shanty, Hostel) can level up kerbals
+	+ Moved docking modules to Coupling category
+	+ Reduced mass of docking modules by 25%
+	+ Fixed numerous holes in the PPD-24 Observation Module IVA
+	+ Fixed large cupola's black IVA mesh
+	+ Fixed Shanty's offset IVA blocking mesh
 * 2016-0601: 0.4.0 (Nertea) for KSP 1.1
 	+ KSP 1.1.2
 	+ Updated bundled MM
