@@ -1,5 +1,19 @@
 # Station Parts Expansion :: Change Log
 
+* 2017-0616: 0.5.0 (Nertea) for KSP 1.3
+	+ KSP 1.3
+	+ Updated to use new localization functions
+	+ Updated MM to 2.8.0
+	+ Updated MiniAVC to 1.0.3.3
+		- Updated EPL patch (thanks blackliner)
+	+ Added an 'sspx' part search tag to all parts that were missing it
+	+ Adjusted IVA prop locations
+		- Adjusted IVA lighting
+		- NF Props updated
+		- Now versioned (0.1.0 is current)
+		- Removed many less useful props
+		- Fixed transform centering of remaining props
+		- RPM functions of RPM-enabled props are now applied using MM, avoiding error messages when RPM is not installed
 * 2017-0124: 0.4.3 (Nertea) for KSP 1.2.2
 	+ Marked for KSP 1.2.2
 	+ Updated bundled MM to 2.7.5
