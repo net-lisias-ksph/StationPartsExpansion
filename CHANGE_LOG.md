@@ -1,5 +1,10 @@
 # Station Parts Expansion :: Change Log
 
+* 2016-1118: 0.4.2 (Nertea) for KSP 1.2
+	+ Marked for KSP 1.2.1
+	+ Replaced outdated version of ModuleManager
+	+ Tied all parts that have cabin lights to Light action group
+	+ Adjusted the USI-LS patch (thanks tarheel1999)
 * 2016-1021: 0.4.1 (Nertea) for KSP 1.2
 	+ KSP 1.2
 	+ Station hubs can act as probe control points
