@@ -1,5 +1,10 @@
 # Station Parts Expansion :: Change Log
 
+* 2015-0503: 0.3.1 (Nertea) for KSP 1.0.0
+	+ CTT 2.0 Compatibility
+	+ Fixed missing animation on PTD-01 causing issues
+	+ Fixed control orientation of EVACU8 airlock
+	+ Fixed heat and crash tolerances of all parts
 * 2015-0429: 0.3.0 (Nertea) for KSP 1.0.0
 	+ KSP 1.0 update
 	+ Temporarily deprecated CTT support until CTT is upgraded
