@@ -1,5 +1,10 @@
 # Station Parts Expansion :: Change Log
 
+* 2015-0504: 0.3.2 (Nertea) for KSP 1.0.0
+	+ CTT 2.0 fix
+	+ Fixed RGB-2 tech node
+	+ Fixed missing CLS entries for some 2.5m parts
+	+ Fixed hole in RGB-2 mesh
 * 2015-0503: 0.3.1 (Nertea) for KSP 1.0.0
 	+ CTT 2.0 Compatibility
 	+ Fixed missing animation on PTD-01 causing issues
