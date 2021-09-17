@@ -1,5 +1,10 @@
 # Station Parts Expansion :: Change Log
 
+* 2017-1027: 0.5.2 (Nertea) for KSP 1.3.1
+	+ KSP 1.3.1
+	+ Final update
+	+ Updated NFProps to 0.2.0
+		- Better in every way
 * 2017-0626: 0.5.1 (Nertea) for KSP 1.3.0
 	+ Spanish Translation courtesy of forum user fitiales
 * 2017-0616: 0.5.0 (Nertea) for KSP 1.3
